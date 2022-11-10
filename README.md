@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **i'm also graduated in game design at Saga**
 
+- 🏳‍🌈 pronouns **i use both she/her and he/him**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel fonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel fonseca" height="30" width="40" /></a>
