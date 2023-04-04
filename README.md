@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fonseca</h1>
 <h3 align="center">I'm a front-End developer from brazil, studying to be a full stack developer at trybe school</h3>
 
-- 🔭 I’m currently working on [Recipes App](https://github.com/tryber/sd-024-b-project-recipes-app/tree/main-group-15)
+- 🔭 I’m currently working on [Trybesmith](https://github.com/tryber/sd-025-b-project-trybesmith/pull/51)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **typescript**
 
 - 📫 How to reach me **gabriel1711fonseca@gmail.com**
 
