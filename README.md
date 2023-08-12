@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i'm also graduated in game design at Saga**
 
-- 🏳‍🌈 pronouns **i use both she/her and he/him**
+- 🏳‍🌈 pronouns **i use he/him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
