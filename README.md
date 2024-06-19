@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fonseca</h1>
-<h3 align="center">I'm a full stack developer from Brazil, studying at trybe school</h3>
+<h3 align="center">I'm a full stack developer from Brazil, studying at Anhanguera</h3>
 
-- 🔭 I’m currently working on [Restaurant orders](https://github.com/tryber/sd-027-b-restaurant-orders/pull/82)
+- 🔭 My last project was [Agrix Fase C](https://github.com/tryber/java-029-java-projeto-final-agrix-fase-c/pull/37)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Data Analysis and Development**
 
 - 📫 How to reach me **gabriel1711fonseca@gmail.com**
 
-- ⚡ Fun fact **i'm also graduated in game design at Saga**
+- ⚡ Fun fact **i'm also graduated in game design at Saga and web development at trybe**
 
 - 🏳‍🌈 pronouns **i use he/him**
 
