@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **gabriel1711fonseca@gmail.com**
 
+- 🏢 I'm currently working at **[Menupass](https://www.menupass.com.br)**
+
 - ⚡ Fun fact **i'm also graduated in game design at Saga and web development at trybe**
 
 - 🏳‍🌈 pronouns **i use he/him**
