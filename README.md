@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **gabriel1711fonseca@gmail.com**
 
-- 🏢 I'm currently working at **[Menupass](https://www.menupass.com.br)**
+- 🏢 I'm currently working at **[RD Saúde](https://rdsaude.com.br/)**
 
 - ⚡ Fun fact **i'm also graduated in game design at Saga and web development at trybe**
 
-- 🏳‍🌈 pronouns **i use he/him**
+- 🏳‍🌈 pronouns **i use any pronouns**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
