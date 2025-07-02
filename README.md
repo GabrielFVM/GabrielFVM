@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fonseca</h1>
-<h3 align="center">I'm a full stack developer from Brazil, studying at Anhanguera</h3>
+<h3 align="center">I'm a full stack developer from Brazil, working in RD Saúde</h3>
 
 - 🔭 My last project was [Agrix Fase C](https://github.com/tryber/java-029-java-projeto-final-agrix-fase-c/pull/37)
 
