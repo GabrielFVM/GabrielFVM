@@ -3,7 +3,7 @@
 
 - 🔭 My last project was [Agrix Fase C](https://github.com/tryber/java-029-java-projeto-final-agrix-fase-c/pull/37)
 
-- 🌱 I’m currently learning **Data Analysis and Development**
+- 🌱 I’m currently learning **Botcity API Connections**
 
 - 📫 How to reach me **gabriel1711fonseca@gmail.com**
 
